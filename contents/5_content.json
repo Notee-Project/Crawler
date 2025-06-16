@@ -1,0 +1,32 @@
+{
+  "file_name": "5_content.txt",
+  "content": "2025년 예비창업 아카데미 지원사업 예비창업자 모집\n[지원대상]\n* 안동시 만 19세 이상 예비창업자 혹은 1년 미만의 창업자\n[지원규모]\n* 창업실무교육(7회 예정) 교육생 10명 내외\n* 창업실무교육 6회 이상 이수한 교육생 중 중간평가를 통해 창업활동비(최대 1,200만원) 지원 5명 선발\n* 세부지원내용은 모집공고문 참고\n* 세부지원내용은 모집공고문 참고\n[신청기간_기간연장!!!]\n* 2025년 4월 25일(금) ~ 5월 9일(금) 14:00까지\n[신청방법]\n* 홈페이지(\nhttps://andongjob.kr)신청 / 회원가입 필수\nhttps://andongjob.kr)신청 / 회원가입 필수\n* 관련문의: 054-820-7376\n* 관련문의: 054-820-7376",
+  "metadata": {
+    "title": "2025년 예비창업 아카데미 지원사업 예비창업자 모집",
+    "announcement_date": "2021년 12월 3일(금)",
+    "application_period": {
+      "start_date": "2025년 4월 25일(금)",
+      "end_date": "2025년 5월 9일(금) 14:00까지"
+    },
+    "education_period": {
+      "training_count": 7,
+      "training_capacity": 10
+    },
+    "eligibility": [
+      "안동시 만 19세 이상 예비창업자",
+      "1년 미만의 창업자"
+    ],
+    "capacity": {
+      "total": "창업실무교육(7회 예정) 교육생 10명 내외",
+      "selected": "창업실무교육 6회 이상 이수한 교육생 중 중간평가를 통해 창업활동비(최대 1,200만원) 지원 5명 선발"
+    },
+    "tuition": "",
+    "application_method": [
+      "홈페이지(https://andongjob.kr)신청 / 회원가입 필수"
+    ],
+    "required_documents": "",
+    "contact": "054-820-7376",
+    "required_conditions": "",
+    "benefits": ""
+  }
+}
