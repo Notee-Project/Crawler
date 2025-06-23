@@ -1,0 +1,64 @@
+{
+  "documents": [
+    {
+      "title": "국립안동대학교 참가 베트남 해외유학생 유치설명회",
+      "category": "취업",
+      "date": "2023년 2월 14일",
+      "source": "국립안동대학교",
+      "id": 1,
+      "filename": "01_content.txt"
+    },
+    {
+      "title": "제4기 전라남도 해외유학생 안내",
+      "category": "취업",
+      "date": "2023. 2. 6.",
+      "source": "우리 대학",
+      "id": 3,
+      "filename": "03_content.txt"
+    },
+    {
+      "title": "2023-2024 스위스 정부초청 장학생 선발 안내",
+      "category": "학사",
+      "date": "2022.8.2.(화) ~ 2022.11.10.(목)",
+      "source": "주한스위스대사관",
+      "id": 4,
+      "filename": "04_content.txt"
+    },
+    {
+      "title": "전라남도 해외유학생 선발 공고 (제3기)",
+      "category": "학사",
+      "date": "2022-02-07",
+      "source": "전라남도",
+      "id": 6,
+      "filename": "06_content.txt"
+    },
+    {
+      "title": "2022년 사우디아라비아 정부초청 장학생 선발 안내",
+      "category": [
+        "학사"
+      ],
+      "date": "2021-12-31",
+      "source": "주한사우디아라비아 대사관",
+      "id": 7,
+      "filename": "07_content.txt"
+    },
+    {
+      "title": "2020학년도 2학기 학자금 대출 계획",
+      "category": [
+        "학사"
+      ],
+      "date": "2022-06-14",
+      "source": "한국장학재단",
+      "id": 9,
+      "filename": "09_content.txt"
+    },
+    {
+      "title": "교육과 연구능력 향상 지원 프로젝트",
+      "category": [],
+      "date": "2023년 1월 ~ 2025년 12월",
+      "source": "",
+      "id": 10,
+      "filename": "10_content.txt"
+    }
+  ]
+}

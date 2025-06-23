@@ -1,0 +1,80 @@
+{
+  "documents": [
+    {
+      "title": "2022년도 교육비 지원 공고",
+      "category": [
+        "학사"
+      ],
+      "date": "2022-04-01",
+      "source": "교육부",
+      "id": 11,
+      "filename": "11_content.txt"
+    },
+    {
+      "title": "2025 학년도 1학기 주거안정장학금 선발 장학생의 지급요청서",
+      "category": [],
+      "date": "",
+      "source": "",
+      "id": 12,
+      "filename": "12_content.txt"
+    },
+    {
+      "title": "2025학년도 청년창업농장학금 장학생 선발안내",
+      "category": "기타",
+      "date": "2025.6.23",
+      "source": "농어촌희망재단",
+      "id": 13,
+      "filename": "13_content.txt"
+    },
+    {
+      "title": "2025 학년도 하계방학 집중근로장학생 선발",
+      "category": "학사",
+      "date": "2025. 7. 1.(화) ~ 8. 31.(일)",
+      "source": "한국장학재단",
+      "id": 14,
+      "filename": "14_content.txt"
+    },
+    {
+      "title": "지금부터 YBM On-line TOEIC 강좌 신청 시작!",
+      "category": [],
+      "date": "20XX년 XX월 ~ XX년 XX월",
+      "source": "YBM",
+      "id": 16,
+      "filename": "16_content.txt"
+    },
+    {
+      "title": "대학원 입학 경쟁력 향상을 위한 교육비 지원 프로그램",
+      "category": [],
+      "date": "2023년도",
+      "source": "한국교육대학원",
+      "id": 17,
+      "filename": "17_content.txt"
+    },
+    {
+      "title": "학교 석사 연계과정 신입생 모집 안내",
+      "category": "학사",
+      "date": "2025년 7월 17일(목)",
+      "source": "해당 문서",
+      "id": 18,
+      "filename": "18_content.txt"
+    },
+    {
+      "title": "국립대학육성사업 장학금 신청안내",
+      "category": [
+        "학사"
+      ],
+      "date": "2025. 6. 30.",
+      "source": "국립경국대학교",
+      "id": 19,
+      "filename": "19_content.txt"
+    },
+    {
+      "title": "국립경국대학교 다문화교육센터에서 지역 취약계층의 기초학력 향상을 위한 2025 학년도 지역 청소년 학습지원 멘토링 프로그램 참여 멘토 모집",
+      "category": "기타",
+      "date": "2025.06.16(월)",
+      "source": "국립경국대학교",
+      "id": 20,
+      "filename": "20_content.txt"
+    }
+  ]
+}

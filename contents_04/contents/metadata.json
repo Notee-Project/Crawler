@@ -1,0 +1,64 @@
+{
+  "documents": [
+    {
+      "title": "구내식당 식비 인상 안내",
+      "category": "기타",
+      "date": "2022. 08. 24.",
+      "source": "안동대학교 소비자 생활 협동조합",
+      "id": 31,
+      "filename": "31_content.txt"
+    },
+    {
+      "title": "안동대학교 소비자생활 협동조합 특별 메뉴",
+      "category": "기타",
+      "date": "",
+      "source": "안동대학교 소비자생활 협동조합",
+      "id": 33,
+      "filename": "33_content.txt"
+    },
+    {
+      "title": "교육비 지원 공고",
+      "category": [],
+      "date": "2023년 4월 1일부터 5월 31일까지",
+      "source": "",
+      "id": 35,
+      "filename": "35_content.txt"
+    },
+    {
+      "title": "대한민국 교육비 지원 공고",
+      "category": "학사",
+      "date": "2021년 7월 1일부터 2021년 9월 30일까지 지원이 받을 수 있습니다.",
+      "source": "예제 대학교",
+      "id": 36,
+      "filename": "36_content.txt"
+    },
+    {
+      "title": "2023년 학부 교육비 지원 프로그램",
+      "category": [
+        "학사"
+      ],
+      "date": "2023년 1월 1일부터 2023년 2월 28일까지",
+      "source": "해당 정보는 공고문에서 확인할 수 있습니다.",
+      "id": 37,
+      "filename": "37_content.txt"
+    },
+    {
+      "title": "2023년도 대한민국의 대학교 입서 교육비 지원 공고",
+      "category": [
+        "학사"
+      ],
+      "date": "2023년 1월 1일부터 2023년 2월 28일까지",
+      "source": "대한민국 교육부",
+      "id": 38,
+      "filename": "38_content.txt"
+    },
+    {
+      "title": "2023년도 대학교육비 지원 공고",
+      "category": "기타",
+      "date": "2023년 2월 1일부터 2월 31일까지",
+      "source": "국민 교육과학기술연구원(KERI)",
+      "id": 39,
+      "filename": "39_content.txt"
+    }
+  ]
+}

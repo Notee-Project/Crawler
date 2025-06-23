@@ -1,82 +1,70 @@
-[
-  {
-    "filename": "10_content.txt",
-    "title": "2025년 예비창업 아카데미 지원사업 예비창업자 모집",
-    "category": "기타",
-    "date": "2023-04-16",
-    "source": "054-820-7376",
-    "id": 1
-  },
-  {
-    "filename": "1_content.txt",
-    "title": "SNS홍보 마케터 양성과정 교육생 모집공고",
-    "category": "기타",
-    "date": "2025. 5. 21.",
-    "source": "054-820-6946",
-    "id": 2
-  },
-  {
-    "filename": "2_content.txt",
-    "title": "글로컬대학추진단 2025 학생창업동아리 선정 결과 알림",
-    "category": "기타",
-    "date": "",
-    "source": "",
-    "id": 3
-  },
-  {
-    "filename": "3_content.txt",
-    "title": "국립경국대학교 글로컬대학 비전임교원 공개채용 최종합격자(임용예정자)",
-    "category": "취업",
-    "date": "2025. 5. 2.",
-    "source": "",
-    "id": 4
-  },
-  {
-    "filename": "4_content.txt",
-    "title": "글로컬대학추진단 2025학년도 시장마스터 클래스 선정 결과 알림",
-    "category": "기타",
-    "date": "",
-    "source": "",
-    "id": 5
-  },
-  {
-    "filename": "5_content.txt",
-    "title": "2025년 예비창업 아카데미 지원사업 예비창업자 모집",
-    "category": "기타",
-    "date": "2025년 4월 25일(금)",
-    "source": "054-820-7376",
-    "id": 6
-  },
-  {
-    "filename": "6_content.txt",
-    "title": "국립경국대학교 글로컬대학 비전임교원 (초빙교원) 공개채용",
-    "category": "취업",
-    "date": "2025. 4. 25.",
-    "source": "(054-820-7572)",
-    "id": 7
-  },
-  {
-    "filename": "7_content.txt",
-    "title": "국립경국대학교 창업보육센터 신규 입주기업 모집",
-    "category": "기타",
-    "date": "",
-    "source": "",
-    "id": 8
-  },
-  {
-    "filename": "8_content.txt",
-    "title": "2025학년도 학생창업동아리 운영 지원",
-    "category": "기타",
-    "date": "",
-    "source": "",
-    "id": 9
-  },
-  {
-    "filename": "9_content.txt",
-    "title": "2025학년도 시장마스터 클래스",
-    "category": "기타",
-    "date": "",
-    "source": "",
-    "id": 10
-  }
-]
+{
+  "documents": [
+    {
+      "title": "2025년 예비창업 아카데미 지원사업 예비창업자 모집",
+      "category": [
+        "취업"
+      ],
+      "date": "2025년 4월 16일 (수) ~ 4월 25일 (금) 14:00까지",
+      "source": "안동시",
+      "id": 1,
+      "filename": "10_content.txt"
+    },
+    {
+      "title": "「2025년 지역대학 활용 관광콘텐츠 발굴사업」 SNS홍보 마케터 양성과정 교육생 모집공고",
+      "category": "취업",
+      "date": "2025. 5. 21.(수) ~ 6. 3.(화) 18:00",
+      "source": "안동형 일자리사업단장",
+      "id": 2,
+      "filename": "1_content.txt"
+    },
+    {
+      "title": "국립경국대학교 글로컬대학 비전임교원 공개채용 최종합격자",
+      "category": "학사",
+      "date": "2025년 5월 2일",
+      "source": "국립경국대학교 총장",
+      "id": 4,
+      "filename": "3_content.txt"
+    },
+    {
+      "title": "글로컬대학추진단 공고 - 2025학년도 시장마스터 클래스 선정 결과 알림",
+      "category": [],
+      "date": "",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 5,
+      "filename": "4_content.txt"
+    },
+    {
+      "title": "2025년 예비창업 아카데미 지원사업 예비창업자 모집",
+      "category": "기타",
+      "date": "2025년 4월 25일(금) ~ 5월 9일(금) 14:00까지",
+      "source": "안동시",
+      "id": 6,
+      "filename": "5_content.txt"
+    },
+    {
+      "title": "국립경국대학교 글로컬대학추진단 공고",
+      "category": "",
+      "date": "2025년 4월 30일 (금)",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 7,
+      "filename": "6_content.txt"
+    },
+    {
+      "title": "국립경국대학교 창업보육센터 신규 입주기업 모집",
+      "category": "학사",
+      "date": "2023년 3월 31일 (금) 오전 5:00",
+      "source": "국립경국대학교 창업보육센터장",
+      "id": 8,
+      "filename": "7_content.txt"
+    },
+    {
+      "title": "2025학년도 학생창업동아리 운영 지원",
+      "category": "기타",
+      "date": "2025년 4월 21일 (월) ~ 2025년 5월 2일 (금)",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 9,
+      "filename": "8_content.txt"
+    }
+  ]
+}

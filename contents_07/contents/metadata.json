@@ -1,0 +1,70 @@
+{
+  "documents": [
+    {
+      "title": "국립경국대학교 글로컬대학추진단에서 지원받는 K-인문 연구 분야 학술대회 지원사업",
+      "category": "기타",
+      "date": "2025년 6월 20일 ~ 6월 27일",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 1,
+      "filename": "01_content.txt"
+    },
+    {
+      "title": "K-인문 익스플로러 융합인문학 모임(대학원생) 지원",
+      "category": "기타",
+      "date": "2026년 6월 16일 (월) ~ 2026년 6월 20일 (금)",
+      "source": "글로컬대학추진단 K-인문혁신본부",
+      "id": 3,
+      "filename": "03_content.txt"
+    },
+    {
+      "title": "K-인문 익스플로러 융합인문학 LAB(학부생) 지원",
+      "category": [],
+      "date": "2026년 6월 16일(월) ~ 2026년 6월 20일(금)",
+      "source": "글로컬대학추진단 K-인문혁신본부",
+      "id": 4,
+      "filename": "04_content.txt"
+    },
+    {
+      "title": "안동시장상, 국립경국대총장상 수상 화분매개 사진 공모전",
+      "category": [
+        "기타"
+      ],
+      "date": "2021년 11월 1일",
+      "source": "국립경국대학교(Korea National Arboretum)",
+      "id": 5,
+      "filename": "05_content.txt"
+    },
+    {
+      "title": "국립경국대학교 글로컬대학 기간제 계약직원 공개채용 최종합격자 공고",
+      "category": [],
+      "date": "2025년 6월 11일",
+      "source": "국립경국대학교 총장",
+      "id": 6,
+      "filename": "06_content.txt"
+    },
+    {
+      "title": "2025 인문익스플로러-융합인문학 생명과학과 인문학의 융합적 고착 글로벌 특강",
+      "category": "기타",
+      "date": "2025. 06. 12.",
+      "source": "국립경국대학교",
+      "id": 8,
+      "filename": "08_content.txt"
+    },
+    {
+      "title": "K-인문 연구 활성화를 위한 지원사업",
+      "category": [],
+      "date": "",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 9,
+      "filename": "09_content.txt"
+    },
+    {
+      "title": "국립경국대학교 글로컬대학 기간제 계약직원 공개채용 공고",
+      "category": "학사",
+      "date": "2025. 5. 20.",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 10,
+      "filename": "10_content.txt"
+    }
+  ]
+}

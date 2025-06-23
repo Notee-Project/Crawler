@@ -1,0 +1,339 @@
+{
+  "documents": [
+    {
+      "title": "로컬푸드 메뉴 개발 프로그램 교육생 모집",
+      "category": "학사",
+      "date": "2025년 6월 16일 (월) ~ 6월 25일 (수) 18:00까지",
+      "source": "안동시 가톨릭상지대학교",
+      "id": 1,
+      "filename": "01_content.txt"
+    },
+    {
+      "title": "국립경국대학교 창업보육센터 신규입주기업 추가모집",
+      "category": [],
+      "date": "2025년 6월 9일(월) ~ 2025년 6월 30일(월)",
+      "source": "국립경국대학교 창업보육센터",
+      "id": 2,
+      "filename": "02_content.txt"
+    },
+    {
+      "title": "「2025년 경북 북부권 청년창업지원사업」 제9기 경상북도 북부권 청년창업자 추가 모집 공고",
+      "category": [
+        "학사"
+      ],
+      "date": "2025. 06. 11.(수) ~ 2025. 06. 27.(금)",
+      "source": "국립경국대학교 창업보육센터",
+      "id": 3,
+      "filename": "03_content.txt"
+    },
+    {
+      "title": "2025학년도 농림축산식품부 청년창업농장학금 공고",
+      "category": "학사",
+      "date": "2023-06-23",
+      "source": "농어촌희망재단",
+      "id": 4,
+      "filename": "04_content.txt"
+    },
+    {
+      "title": "SNS 홍보 마케터 양성 과정 교육생 모집 공고",
+      "category": [
+        "학사"
+      ],
+      "date": "2025년 5월 21일 (수) ~ 6월 3일 (화) 18:00까지",
+      "source": "안동형 일자리 사업단장",
+      "id": 5,
+      "filename": "05_content.txt"
+    },
+    {
+      "title": "국립경국대학교 글로컬대학 비전임교원 공개채용 최종합격자",
+      "category": "학사",
+      "date": "2025. 5. 2.",
+      "source": "국립경국대학교 총장",
+      "id": 7,
+      "filename": "07_content.txt"
+    },
+    {
+      "title": "글로컬대학추진단 공고 - 2025학년도 시장마스터 클래스 선정 결과 알림",
+      "category": [],
+      "date": "",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 8,
+      "filename": "08_content.txt"
+    },
+    {
+      "title": "2025년 예비창업 아카데미 지원사업 예비창업자 모집",
+      "category": "기타",
+      "date": "2025년 4월 25일(금) ~ 5월 9일(금) 14:00까지",
+      "source": "안동시",
+      "id": 9,
+      "filename": "09_content.txt"
+    },
+    {
+      "title": "국립경국대학교 글로컬대학 비전임교원 (초빙교원) 공개채용",
+      "category": "학사",
+      "date": "2025. 4. 30.",
+      "source": "국립경국대학교 글로컬대학추진단",
+      "id": 10,
+      "filename": "10_content.txt"
+    },
+    {
+      "title": "2022년도 교육비 지원 공고",
+      "category": [
+        "학사"
+      ],
+      "date": "2022-04-01",
+      "source": "교육부",
+      "id": 11,
+      "filename": "11_content.txt"
+    },
+    {
+      "title": "2025 학년도 1학기 주거안정장학금 선발 장학생의 지급요청서",
+      "category": [],
+      "date": "",
+      "source": "",
+      "id": 12,
+      "filename": "12_content.txt"
+    },
+    {
+      "title": "2025학년도 청년창업농장학금 장학생 선발안내",
+      "category": "기타",
+      "date": "2025.6.23",
+      "source": "농어촌희망재단",
+      "id": 13,
+      "filename": "13_content.txt"
+    },
+    {
+      "title": "2025 학년도 하계방학 집중근로장학생 선발",
+      "category": "학사",
+      "date": "2025. 7. 1.(화) ~ 8. 31.(일)",
+      "source": "한국장학재단",
+      "id": 14,
+      "filename": "14_content.txt"
+    },
+    {
+      "title": "지금부터 YBM On-line TOEIC 강좌 신청 시작!",
+      "category": [],
+      "date": "20XX년 XX월 ~ XX년 XX월",
+      "source": "YBM",
+      "id": 16,
+      "filename": "16_content.txt"
+    },
+    {
+      "title": "대학원 입학 경쟁력 향상을 위한 교육비 지원 프로그램",
+      "category": [],
+      "date": "2023년도",
+      "source": "한국교육대학원",
+      "id": 17,
+      "filename": "17_content.txt"
+    },
+    {
+      "title": "학교 석사 연계과정 신입생 모집 안내",
+      "category": "학사",
+      "date": "2025년 7월 17일(목)",
+      "source": "해당 문서",
+      "id": 18,
+      "filename": "18_content.txt"
+    },
+    {
+      "title": "국립대학육성사업 장학금 신청안내",
+      "category": [
+        "학사"
+      ],
+      "date": "2025. 6. 30.",
+      "source": "국립경국대학교",
+      "id": 19,
+      "filename": "19_content.txt"
+    },
+    {
+      "title": "국립경국대학교 다문화교육센터에서 지역 취약계층의 기초학력 향상을 위한 2025 학년도 지역 청소년 학습지원 멘토링 프로그램 참여 멘토 모집",
+      "category": "기타",
+      "date": "2025.06.16(월)",
+      "source": "국립경국대학교",
+      "id": 20,
+      "filename": "20_content.txt"
+    },{
+      "title": "39세 이하 미취업 청년 지원자 모집",
+      "category": "취업",
+      "date": "2021년 8월 1일 ~ 2021년 8월 31일",
+      "source": "지정된 기관",
+      "id": 21,
+      "filename": "21_content.txt"
+    },
+    {
+      "title": "2025학년도 청년창업농장학금 장학생 선발안내",
+      "category": "기타",
+      "date": "2025.1.1.",
+      "source": "농어촌희망재단",
+      "id": 22,
+      "filename": "22_content.txt"
+    },
+    {
+      "title": "안동형 일자리사업과 백신신융합 플랫폼기술개발 및 산업화 지원사업 인턴모집",
+      "category": [
+        "학사"
+      ],
+      "date": "2025년 6월 12일 (목) ~ 6월 24일 (화)",
+      "source": "안동형 일자리사업단장",
+      "id": 23,
+      "filename": "23_content.txt"
+    },
+    {
+      "title": "안동형 일자리사업: 친환경소재 기술개발 및 상용화 지원 사업 인턴 모집",
+      "category": [
+        "학사"
+      ],
+      "date": "2025년 6월 12일(목)부터 6월 24일(화)까지",
+      "source": "한국교통대학교 안동지역 소재 친환경소재 산업 R&BD 역량강화 지원 및 친환경 소재를 적용한 생분해 플라스틱 및 자동차부품 관련 업체 유치를 통하여 경북 안동 내 지역경제 활성화 및 안동형 일자리를 확보하고자 하는 '안동형 일자리사업'에 참여한 기관",
+      "id": 24,
+      "filename": "24_content.txt"
+    },
+    {
+      "title": "국립경국대학교 대학재정지원사업 기간제 계약직원 채용 공고",
+      "category": "취업",
+      "date": "2025. 5. 28.(수) 10:00 ~ 6. 9.(월) 17:00",
+      "source": "국립경국대학교",
+      "id": 28,
+      "filename": "28_content.txt"
+    },
+    {
+      "title": "제 2차 외국어 특강 신청",
+      "category": "기타",
+      "date": "2025년 5월 19일",
+      "source": "어학원",
+      "id": 30,
+      "filename": "30_content.txt"
+    },{
+      "title": "2025학년도 2학기 1차 주거안정장학금 신청",
+      "category": "학사",
+      "date": "2025년 5월 23일 (금요일) 9시부터 2025년 6월 23일 (수요일) 18시까지",
+      "source": "대한민국 교육부",
+      "id": 41,
+      "filename": "41_content.txt"
+    },
+    {
+      "title": "2025년 안동지역대학 대학생 학업장려금 (1차) 대학교 현장 신청에 관한 안내",
+      "category": "학사",
+      "date": "2025. 4. 30.(수)",
+      "source": "안동캠퍼스 대학본관 별동 1층 학생지원팀, 예천캠퍼스 대학본관 2층 학생지원팀",
+      "id": 42,
+      "filename": "42_content.txt"
+    },
+    {
+      "title": "한국과학기술값가치평가원 지원자들에게 교육비를 지원하는 공고",
+      "category": [],
+      "date": "2023년 1월 1일",
+      "source": "한국과학기술값가치평가원",
+      "id": 43,
+      "filename": "43_content.txt"
+    },
+    {
+      "title": "안동지역 대학생 학업장려금 지원사업",
+      "category": "학사",
+      "date": "2025년 4월 1일부터 4월 30일까지",
+      "source": "안동시",
+      "id": 44,
+      "filename": "44_content.txt"
+    },
+    {
+      "title": "2025년도 주거안정장학금 국립경국대학교 자체기준",
+      "category": [],
+      "date": "",
+      "source": "국립경국대학교",
+      "id": 45,
+      "filename": "45_content.txt"
+    },
+    {
+      "title": "2025년 청년 주거 장학금 신청",
+      "category": "기타",
+      "date": "2025년 3월 10일(월) ~ 4월 6일(일)",
+      "source": "KFCCF",
+      "id": 46,
+      "filename": "46_content.txt"
+    },
+    {
+      "title": "중국어 교육과 문화를 세계에 전파하기 위한 장학금 제도",
+      "category": [
+        "학사"
+      ],
+      "date": "2025년 3월 12일(수) ~ 03.26.(수) 18:00",
+      "source": "국립안동대학교 공자학원",
+      "id": 47,
+      "filename": "47_content.txt"
+    },
+    {
+      "title": "2025학년도 국립경국대학교 미리캠퍼스",
+      "category": "기타",
+      "date": "2022-11-16",
+      "source": "국립경국대학교",
+      "id": 48,
+      "filename": "48_content.txt"
+    },
+    {
+      "title": "중국 교육부 직속 '2025년도 3월 입학' 중국·외어 교류협력센터 장학생 모집 및 추천 안내",
+      "category": "학사",
+      "date": "2024.9.25.(수) ~ 10.8.(화)",
+      "source": "안동대학교 공자학원",
+      "id": 49,
+      "filename": "49_content.txt"
+    }, {
+      "title": "구내식당 식비 인상 안내",
+      "category": "기타",
+      "date": "2022. 08. 24.",
+      "source": "안동대학교 소비자 생활 협동조합",
+      "id": 31,
+      "filename": "31_content.txt"
+    },
+    {
+      "title": "안동대학교 소비자생활 협동조합 특별 메뉴",
+      "category": "기타",
+      "date": "",
+      "source": "안동대학교 소비자생활 협동조합",
+      "id": 33,
+      "filename": "33_content.txt"
+    },
+    {
+      "title": "교육비 지원 공고",
+      "category": [],
+      "date": "2023년 4월 1일부터 5월 31일까지",
+      "source": "",
+      "id": 35,
+      "filename": "35_content.txt"
+    },
+    {
+      "title": "대한민국 교육비 지원 공고",
+      "category": "학사",
+      "date": "2021년 7월 1일부터 2021년 9월 30일까지 지원이 받을 수 있습니다.",
+      "source": "예제 대학교",
+      "id": 36,
+      "filename": "36_content.txt"
+    },
+    {
+      "title": "2023년 학부 교육비 지원 프로그램",
+      "category": [
+        "학사"
+      ],
+      "date": "2023년 1월 1일부터 2023년 2월 28일까지",
+      "source": "해당 정보는 공고문에서 확인할 수 있습니다.",
+      "id": 37,
+      "filename": "37_content.txt"
+    },
+    {
+      "title": "2023년도 대한민국의 대학교 입서 교육비 지원 공고",
+      "category": [
+        "학사"
+      ],
+      "date": "2023년 1월 1일부터 2023년 2월 28일까지",
+      "source": "대한민국 교육부",
+      "id": 38,
+      "filename": "38_content.txt"
+    },
+    {
+      "title": "2023년도 대학교육비 지원 공고",
+      "category": "기타",
+      "date": "2023년 2월 1일부터 2월 31일까지",
+      "source": "국민 교육과학기술연구원(KERI)",
+      "id": 39,
+      "filename": "39_content.txt"
+    }
+  ]
+}
